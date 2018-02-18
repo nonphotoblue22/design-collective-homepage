@@ -10,3 +10,5 @@
 
 ## Why we chose these dependencies
 @todo
+
+## Why we're hosting on github
